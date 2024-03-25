@@ -3236,7 +3236,7 @@
           }
         }
       },
-      "name": "Material #613",
+      "name": "paint_indoor_white",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.5,
@@ -3312,7 +3312,7 @@
           }
         }
       },
-      "name": "Material #614",
+      "name": "paint_indoor_white",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.5,
@@ -3388,7 +3388,7 @@
           }
         }
       },
-      "name": "Material #615",
+      "name": "paint_indoor_white",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.5,
@@ -3464,7 +3464,7 @@
           }
         }
       },
-      "name": "Material #616",
+      "name": "paint_indoor_white",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.5,
@@ -3540,7 +3540,7 @@
           }
         }
       },
-      "name": "Material #617",
+      "name": "paint_indoor_white",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.5,
@@ -3664,7 +3664,7 @@
           }
         }
       },
-      "name": "Material #610",
+      "name": "paint_indoor_white",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.5,
@@ -3721,7 +3721,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -3919,7 +3919,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -3996,7 +3996,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -4133,7 +4133,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -4210,7 +4210,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -4287,7 +4287,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-3_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -4509,7 +4509,7 @@
           }
         }
       },
-      "name": "Material #612",
+      "name": "paint_indoor_white",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.5,
@@ -4566,7 +4566,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-2_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -4683,7 +4683,7 @@
           }
         }
       },
-      "name": "Material #618",
+      "name": "paint_indoor_white",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.5,
@@ -4807,7 +4807,7 @@
           }
         }
       },
-      "name": "Material #611",
+      "name": "paint_indoor_white",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.5,
@@ -5225,7 +5225,7 @@
         }
       },
       "doubleSided": true,
-      "name": "Material #608",
+      "name": "curtain_artdeco",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
@@ -5298,7 +5298,7 @@
         }
       },
       "doubleSided": true,
-      "name": "Material #609",
+      "name": "curtain_artdeco",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
