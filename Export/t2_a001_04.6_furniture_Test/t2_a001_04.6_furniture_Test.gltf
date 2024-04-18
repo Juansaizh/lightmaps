@@ -6124,7 +6124,7 @@
           "index": 40
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "roughnessFactor": 0.3
       },
       "doubleSided": true,
       "name": "ceramic",
@@ -6171,7 +6171,6 @@
         "baseColorTexture": {
           "index": 10
         },
-        "metallicFactor": 0.0,
         "roughnessFactor": 0.0
       },
       "doubleSided": true,
@@ -6220,7 +6219,7 @@
           "index": 10
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "roughnessFactor": 0.6
       },
       "doubleSided": true,
       "name": "melamine_white",
@@ -6264,7 +6263,6 @@
     },
     {
       "pbrMetallicRoughness": {
-        "metallicFactor": 0.0,
         "roughnessFactor": 0.0
       },
       "doubleSided": true,
@@ -6363,7 +6361,6 @@
         "baseColorTexture": {
           "index": 10
         },
-        "metallicFactor": 0.0,
         "roughnessFactor": 0.0
       },
       "doubleSided": true,
@@ -6461,7 +6458,6 @@
         "baseColorTexture": {
           "index": 10
         },
-        "metallicFactor": 0.0,
         "roughnessFactor": 0.0
       },
       "doubleSided": true,
